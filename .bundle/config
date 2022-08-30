@@ -1,0 +1,8 @@
+---
+BUNDLE_RETRY: "5"
+BUNDLE_PATH: "/hab/pkgs/jah_tryhabitat/habitat-building-with-scaffolding/0.1.0/20220830173837/app/vendor/bundle"
+BUNDLE_SHEBANG: "/hab/pkgs/core/ruby/3.0.3/20220313012229/bin/ruby"
+BUNDLE_JOBS: "6"
+BUNDLE_CLEAN: "false"
+BUNDLE_WITHOUT: "development:test"
+BUNDLE_DEPLOYMENT: "true"
